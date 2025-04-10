@@ -3,7 +3,7 @@ const axios = require("axios");
 const Cardano = require("@emurgo/cardano-serialization-lib-nodejs");
 
 // === CONFIG ===
-const BLOCKFROST_API_KEY = "preprodICVgzN7ScdgUN3BUZRtRhwmlspwN6HE0"; // 🔑 Get it from https://blockfrost.io
+const BLOCKFROST_API_KEY = "wkuasgfiwjas"; // 🔑 Get it from https://blockfrost.io
 const BLOCKFROST_BASE_URL = "https://cardano-testnet.blockfrost.io/api/v0";
 
 // === 1. Generate a 24-word seed phrase ===
