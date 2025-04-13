@@ -1,5 +1,5 @@
 {
-  "name": "Endubis Services",
+  "name": "cardano-practice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,6 @@
   },
   "author": "",
   "license": "ISC",
-  "engines": {
-    "node": "16.14.2"
-  },
   "dependencies": {
     "@blockfrost/blockfrost-js": "^6.0.0",
     "@cardano-foundation/cardano-connect-with-wallet-core": "^0.2.5",
@@ -25,5 +22,6 @@
     "dotenv": "^16.0.0",
     "ed25519-hd-key": "^1.3.0",
     "lucid-cardano": "^0.10.11"
+    
   }
 }
