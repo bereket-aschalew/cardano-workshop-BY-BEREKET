@@ -1,0 +1,97 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+.npm
+package-lock.json
+yarn.lock
+.pnp.*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Build outputs
+dist/
+build/
+lib/
+out/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.history/
+*.sublime-workspace
+*.sublime-project
+
+# Testing
+coverage/
+.nyc_output/
+junit.xml
+
+# Cardano specific
+wallet-db/
+db/
+state-cluster*/
+*.addr
+*.skey
+*.vkey
+*.cert
+*.sig
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# Debug
+.debug/
+debug.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Blockchain data
+chain-data/
+testnet-data/
+mainnet-data/
+
+# Security / API Keys
+*.pem
+*.key
+*.cert
+credentials.json
+*secret*
+
+# Cache
+.cache/
+.eslintcache
+.stylelintcache
+.parcel-cache/
+
+# Misc
+.directory
+*.tgz
+.settings/
+.project
+.classpath
+*.iml
+.vercel
+.next
