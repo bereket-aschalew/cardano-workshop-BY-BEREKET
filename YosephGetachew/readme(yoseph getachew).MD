@@ -1,5 +1,5 @@
-Name : Yoseph Getachew
-class: 7A
+Name : bereket aschalew
+class: 11
 github: https://github.com/ZeroHourStrike
 Tax_verification_system:
 (Blockchain for good aliance ) github: https://github.com/ZeroHourStrike/Tax-Verfication-FrontEnd
